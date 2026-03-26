@@ -28,7 +28,8 @@ The Executive Dashboard provides leadership with real-time visibility into reven
 
 ## Inventory Analysis Dashboard
 
-![Inv](https://github.com/user-attachments/assets/c058e1eb-eeef-474c-aab9-1afb948f2fa9)
+![Inv](https://github.com/user-attachments/assets/241ebec6-fd98-4f7e-a415-bfecd21817da)
+
 
 
 Toy sales performance, Inventory analysis &amp; Store analysis using Power BI (Executive, Store Performance &amp; Inventory analysis dashboards)
