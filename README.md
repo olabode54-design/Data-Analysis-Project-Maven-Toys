@@ -26,7 +26,7 @@ The Executive Dashboard provides leadership with real-time visibility into reven
 ![store](https://github.com/user-attachments/assets/cb1870ab-27d5-4077-946b-94772ceb1a68)
 
 
-## Store Performance Dashboard
+## Inventory Analysis Dashboard
 
 ![Inv](https://github.com/user-attachments/assets/c058e1eb-eeef-474c-aab9-1afb948f2fa9)
 
