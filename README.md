@@ -33,7 +33,7 @@ This Inventory dashboard focuses on inventory health, highlighting stockouts, lo
 
 ## Key Insights
 
-- A significant category shift occurred in 2023, with Arts & Crafts surpassing Toys as the most ordered category. This reflects evolving customer preferences and presents an opportunity to realign inventory and merchandising strategies. Scaling supply and visibility for Arts & Crafts, while strategically managing Toys inventory, will be key to maximizing revenue and minimizing excess stock risk.
+- There is a significant category shift, with Arts & Crafts surpassing Toys as the most ordered category as seen in the previous year. This reflects evolving customer preferences and presents an opportunity to realign inventory and merchandising strategies. Scaling supply and visibility for Arts & Crafts, while strategically managing Toys inventory, will be key to maximizing revenue and minimizing excess stock risk.
  
 - Toys are both the most frequently out-of-stock category and a primary revenue driver, highlighting a critical supply gap. Addressing stock availability in this category presents a strong opportunity for revenue growth.
 
