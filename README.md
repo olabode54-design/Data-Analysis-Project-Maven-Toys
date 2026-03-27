@@ -37,7 +37,7 @@ This Inventory dashboard focuses on inventory health, highlighting stockouts, lo
  
 - Toys are both the most frequently out-of-stock category and a primary revenue driver, highlighting a critical supply gap. Addressing stock availability in this category presents a strong opportunity for revenue growth.
 
-- Etch a Sketch is s major revenue driver in the bottom 5 performing stores (Out of ctock in La Paz 1) and has low stock (24) across the five stores. This could could affect revenue and should be attended to. 
+- Etch a Sketch is a major revenue driver in the bottom 5 performing stores (Out of stock in La Paz 1) and has a low stock (24) across the five stores. This could could affect revenue and should be attended to. 
   
 - Campeche 2 store is the lowest-performing store and currently holds low stock levels of three top-selling products. This stock gap may be a key factor contributing to its poor performance.
 
@@ -45,7 +45,7 @@ This Inventory dashboard focuses on inventory health, highlighting stockouts, lo
 
 ## Final Conclusion/recommendation
 
-- Ciudad de Mexico (Stores 1–4) contributes over 11% of total revenue, led by a core group of high-performing products—Lego Bricks, Color Buds, Action Figures, and Rubik’s Cube. This indicates a high-performing market where scaling inventory, optimizing pricing, and replicating this product mix in similar locations could unlock additional growth.
+- Ciudad de Mexico (Stores 1–4) accounts for over 11% of total revenue, driven by a group of top-performing products—Lego Bricks, Color Buds, Action Figures, and Rubik’s Cube. This suggests a highly effective product mix, merchandising, and marketing strategy. Replicating these success factors across similar stores could significantly enhance performance and drive incremental revenue growth.
 
 - The five lowest-performing stores—La Paz 1, Campeche 2, Durango 1, Cuernavaca 1, and Toluca 2—generate a significant portion of their revenue from a limited set of products, including Nerf Gun, Lego Bricks, and Animal Figures. These high-performing items can be leveraged to cross-sell lower-performing products such as Play-Doh Toolkit, Play-Doh Can, and Toy Boxes to improve overall store performance (e.g e.g., "Buy Nerf gun, get Play-Doh 20% off").
 
